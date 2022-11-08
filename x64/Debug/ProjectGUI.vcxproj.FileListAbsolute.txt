@@ -1,0 +1,4 @@
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.vcxproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.vcxproj.GenerateResource.cache
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\x64\Debug\ProjectGUI.MyForm.resources

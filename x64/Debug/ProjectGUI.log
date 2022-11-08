@@ -1,0 +1,12 @@
+﻿  MyForm11.cpp
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\MyForm11.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm12.cpp
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\MyForm12.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm13.cpp
+D:\Microsoft Visual Studio\Project\ProjectGUI\ProjectGUI\MyForm13.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MyForm11.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) already defined in MyForm.obj
+MyForm12.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) already defined in MyForm.obj
+MyForm13.obj : error LNK2005: "void __clrcall main(cli::array<System::PE$AAVString >^)" (?main@@$$HYMXP$01EAPE$AAVString@System@@@Z) already defined in MyForm.obj
+D:\Microsoft Visual Studio\Project\ProjectGUI\x64\Debug\ProjectGUI.exe : fatal error LNK1169: one or more multiply defined symbols found
